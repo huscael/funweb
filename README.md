@@ -1,2 +1,2 @@
-# funweb
-web project under improving
+# Suspended
+JSP Project
